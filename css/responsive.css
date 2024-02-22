@@ -99,7 +99,7 @@
 @media only screen and (max-width: 575px) {
 
     header {
-        background-image: url(images/phone-img.jpg);
+        background-image: url(/images/phone-img.jpg);
     }
 
     .about-col-1 img {
