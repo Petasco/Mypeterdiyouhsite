@@ -21,7 +21,7 @@ body{
 }
 .wrapper .items{
   display: flex;
-  max-width: 720px;
+  max-width: 900px;
   width: 100%;
   justify-content: space-between;
 }
@@ -34,6 +34,10 @@ body{
   border-radius: 50px;
   border: 2px solid #007bff;
   transition: all 0.3s ease;
+}
+.items a{
+  text-decoration: none;
+  color: #007bff;
 }
 .items span.active,
 .items span:hover{
